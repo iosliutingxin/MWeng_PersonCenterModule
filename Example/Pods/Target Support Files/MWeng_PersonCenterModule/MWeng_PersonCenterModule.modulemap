@@ -1,0 +1,6 @@
+framework module MWeng_PersonCenterModule {
+  umbrella header "MWeng_PersonCenterModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

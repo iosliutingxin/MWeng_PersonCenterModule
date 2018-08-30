@@ -1,0 +1,16 @@
+PODS:
+  - MWeng_PersonCenterModule (0.1.0)
+
+DEPENDENCIES:
+  - MWeng_PersonCenterModule (from `../`)
+
+EXTERNAL SOURCES:
+  MWeng_PersonCenterModule:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MWeng_PersonCenterModule: d7baa7a329536bdb3948acc32ab411a3f1fd8bc4
+
+PODFILE CHECKSUM: 0d49300de80c616ec0a62b6ec76529e877df419e
+
+COCOAPODS: 1.4.0

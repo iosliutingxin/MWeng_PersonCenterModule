@@ -29,9 +29,9 @@
 
 /* Begin PBXFileReference section */
 		010F900B1CEAA5B0E7D47773 /* Pods-MWeng_PersonCenterModule_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MWeng_PersonCenterModule_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-MWeng_PersonCenterModule_Example/Pods-MWeng_PersonCenterModule_Example.release.xcconfig"; sourceTree = "<group>"; };
-		09CF617DCF96E411DFC496E5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		29D79609E2CCF2B5DD7BB6AD /* MWeng_PersonCenterModule.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = MWeng_PersonCenterModule.podspec; path = ../MWeng_PersonCenterModule.podspec; sourceTree = "<group>"; };
-		424F3EF68D61B7CDF7DD2349 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		09CF617DCF96E411DFC496E5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		29D79609E2CCF2B5DD7BB6AD /* MWeng_PersonCenterModule.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MWeng_PersonCenterModule.podspec; path = ../MWeng_PersonCenterModule.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		424F3EF68D61B7CDF7DD2349 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* MWeng_PersonCenterModule_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MWeng_PersonCenterModule_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
