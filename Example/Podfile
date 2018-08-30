@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MWeng_PersonCenterModule_Example' do
+  pod 'MWeng_PersonCenterModule', :path => '../'
+
+  target 'MWeng_PersonCenterModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
